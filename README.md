@@ -7,7 +7,7 @@
  1. AJAY
 - [x] #739
 - [ ] www.instagram.com/ajaykumarvarma_32
-- [ ] https://github.com/Ajaykumar11234
+- [ ] https://github.com/ajaykumarvarma
 - [ ] Add delight to the experience when all tasks are complete :ajay: 
 
 ![AJAY](https://avatars.githubusercontent.com/u/90514443?v=4)
